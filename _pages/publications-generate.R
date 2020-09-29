@@ -70,17 +70,7 @@ publications_table <- publications %>%
 
 
 
-# draw a table with heading for each year
-outfile <- c('_pages/publications.md')
-header <- 
-  '---
-layout: single
-permalink: /publications/
-author_profile: true
-title: "Publications"
-classes: wide
----
-'
+
 
 library(scholar)
 
@@ -107,6 +97,19 @@ other.stats <- c(str_c(cites.link,' citations'),
 stats.string <- c(pub.types,other.stats) %>% paste(collapse=" · ")
 # including contributions to Science, PNAS, Global Change Biology, and Current Biology
 
+# draw a table with heading for each year
+outfile <- c('_pages/publications.md')
+header <- 
+  '---
+layout: single
+permalink: /publications/
+author_profile: true
+title: "Publications"
+classes: wide
+header:
+  image: /assets/images/btgo2_1280.jpg
+---
+'
 write_lines(header,outfile)
 write_lines(str_c(stats.string),outfile,append = T)
 write_lines(str_c('<br><small>Last updated ',format(as_date(Sys.time()),format="%d %b %Y"),'</small>'),outfile,append = T)
@@ -116,7 +119,7 @@ years <- unique(publications_table$year)
 for (cur_year in years){
   publications_table %>% 
     filter(year == cur_year) %>% 
-    select(citation,altmetric_badge) %>%
+    select(altmetric_badge,citation) %>%
     knitr::kable(caption = cur_year, format = "html",
                  table.attr='class="publication-table"', escape = FALSE) %>%
     write_lines(outfile,append=TRUE)
