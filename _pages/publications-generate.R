@@ -15,24 +15,47 @@ publications <- read_sheet("https://docs.google.com/spreadsheets/d/1BZlN8CC1bG2h
 # create the table data
 publications_table <- publications %>%
   arrange(desc(date), type) %>%
-    mutate(title = ifelse(!is.na(url), str_c("<a href='", url, "'>", title, "</a>"))) %>% #turn title into link
+  mutate(year=ifelse(sapply(publications$date,function(x) !is.na(as_date(x))),
+                     year(as_date(publications$date)),
+                     publications$date)) %>%
+  mutate(url = ifelse(!is.na(doi) & is.na(url),str_c('https://doi.org/',doi),url)) %>%
+    mutate(title = ifelse(!is.na(url), str_c("<a href='", url, "'>", title, "</a>"),title)) %>% #turn title into link
   mutate(award = case_when(
     award == "Best Paper"         ~ str_c("<i class='fa fa-trophy'></i><em> ", award, "</em> ·"),
     # award == "Honourable Mention" ~ str_c("<img src='/assets/images/ribbon_xs.png' style='height: 1em;'><em> ", award, "</em> ·"),
     TRUE                          ~       ""
   ),
+  venue = ifelse(is.na(venue),"",str_c("<i>",venue,"</i>")),
+  venue = ifelse(is.na(volume_page),venue,str_c(venue," ",volume_page)),
   pdf = ifelse(is.na(pdf), "", str_c("<span class='publication-extra'><a href='", pdf, "'>", 'pdf', "</a></span>")),
   materials = ifelse(is.na(materials),  "", str_c(" · <span class='publication-extra'><a href='", materials, "'>", 'materials', "</a></span>")),
   ebook = ifelse(is.na(ebook), "", str_c(" · <span class='publication-extra'><a href='", ebook, "'>", 'ebook', "</a></span>")),
   blog = ifelse(is.na(blog),  "", str_c(" · <span class='publication-extra'><a href='", blog, "'>", 'blog', "</a></span>")),
   full_talk = ifelse(is.na(full_talk), "", str_c(" · <span class='publication-extra'><a href='", full_talk, "'>", 'video of full talk', "</a></span>")),
-  bibtex = ifelse(is.na(bibtex),  "", str_c(" · <span class='publication-extra'><a href='", bibtex, "'>", 'bibtex', "</a></span>"))) %>% 
+  bibtex = ifelse(is.na(bibtex),  "", str_c(" · <span class='publication-extra'><a href='", bibtex, "'>", 'bibtex', "</a></span>")),
+  authors_full = ifelse(grepl("\\*",authors_full),str_c(authors_full,"<br><small>* Equal contributions</small>"),authors_full),
+  featured = ifelse(is.na(featured),"",str_c("<span class='publication-featured'>",featured,"</span>")),
+  press = sapply(press,function(str) {
+                   ifelse(!is.na(str),
+                  str_c("<span class='publication-featured'><br><b>Press: </b>",
+                                       str %>% str_split('\n') %>% sapply(function(x) str_c(
+                                         '<a href="',str_extract(x,'(?<=\\().+(?=\\))'),'">',str_extract(x,'(?<=\\[).+(?=\\])'),'</a>')
+                                        ) %>% 
+                                         paste(collapse=" · ")
+                                       ,"</span>"),
+                  "")
+                   })
+  ) %>%
+  # featured = sapply(ifelse(is.na(featured),"",featured),
+  #                   function(x) markdown::markdownToHTML(text=x,fragment.only = TRUE) %>%
+  #                     str_extract('^(?<=<p>)+*<(?=</p>)$'))) %>% 
   mutate(citation = str_c("<a class='anchor' id='", anchor, "'></a>",
                           "<span class='pub-title'>", title, "</span><br>"),
          citation = str_c(citation,
                           authors_full, "<br>",
-                          venue, "<br>",
+                          venue, "<br>", 
                           award, pdf, materials, ebook, blog, full_talk, bibtex,
+                          featured, press,
                           sep = " ")
            ) %>% 
   mutate(citation = str_replace(citation, "Van Doren BM", "<b>Van Doren BM</b>")) %>%  # make my name bold
@@ -58,12 +81,41 @@ title: "Publications"
 classes: wide
 ---
 '
-write_lines(header,outfile)
 
-years <- publications$date %>% year() %>% unique()
+library(scholar)
+
+id <- 'r9Vj5hIAAAAJ'
+gs <- get_profile(id)
+
+pub.types <- sort(table(publications_table$type),decreasing = T)
+pub.types <- pub.types[pub.types>1]
+pub.types <- paste(pub.types,' ',names(pub.types),'s',sep="") 
+
+# other.stats <- c(citations=gs$total_cites,
+#                  `h-index`=gs$h_index)
+# other.stats <-paste(other.stats,' ',names(other.stats),sep="") 
+
+cites.link <- str_c('[',gs$total_cites,
+      '](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)')
+h.link <- str_c('[',gs$h_index,
+                '](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)')
+
+other.stats <- c(str_c(cites.link,' citations'),
+                 str_c('h-index: ',h.link))
+# other.stats <-paste(other.stats,' ',names(other.stats),sep="") 
+
+stats.string <- c(pub.types,other.stats) %>% paste(collapse=" · ")
+# including contributions to Science, PNAS, Global Change Biology, and Current Biology
+
+write_lines(header,outfile)
+write_lines(str_c(stats.string),outfile,append = T)
+write_lines(str_c('<br><small>Last updated ',format(as_date(Sys.time()),format="%d %b %Y"),'</small>'),outfile,append = T)
+
+
+years <- unique(publications_table$year)
 for (cur_year in years){
   publications_table %>% 
-    filter(year(date) == cur_year) %>% 
+    filter(year == cur_year) %>% 
     select(citation,altmetric_badge) %>%
     knitr::kable(caption = cur_year, format = "html",
                  table.attr='class="publication-table"', escape = FALSE) %>%

@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Benjamin Van Doren"
-subtitle: "Ecology and evolution of migration"
+subtitle: "Migration · ecology & evolution · environmental change"
 name: "Benjamin Van Doren"
 email: vandoren@cornell.edu 
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site for Benjamin Van Doren.
+  Migration · ecology & evolution · environmental change.
 twitter_username: bvdbirds
 github_username: bmvandoren
 minimal_mistakes_skin: contrast
@@ -64,11 +64,18 @@ plugins:
 author:
   name   : "Benjamin Van Doren"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : >- 
+      Postdoctoral Associate<br>
+      Cornell Lab of Ornithology<br>
+      Presidential Postdoctoral Fellow
+  location: "Ithaca, New York, USA"
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
+    - label: "vandoren [at] cornell.edu"
+      icon: "far fa-envelope"
+      url: ""
+    - label: "Staff Profile"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.birds.cornell.edu/home/staff/benjamin-van-doren/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bvdbirds"
