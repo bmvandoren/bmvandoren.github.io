@@ -109,6 +109,7 @@ classes: wide
 header:
   image: /assets/images/btgo2_1280.jpg
 ---
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 '
 write_lines(header,outfile)
 write_lines(str_c(stats.string),outfile,append = T)
