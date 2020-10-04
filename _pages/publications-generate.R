@@ -65,7 +65,7 @@ publications_table <- publications %>%
       is.na(teaser_video_embed) ~ ""
     )) %>%
   mutate(altmetric_badge = ifelse(is.na(doi),"",
-                                  str_c("<div data-badge-popover='bottom' data-badge-type='donut' data-doi='",
+                                  str_c("<div data-badge-popover='right' data-badge-type='donut' data-doi='",
                                   doi,"' data-hide-no-mentions='true' class='altmetric-embed'></div>")))
 
 

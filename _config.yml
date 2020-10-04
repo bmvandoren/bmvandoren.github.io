@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Benjamin Van Doren"
-subtitle: "Migration · ecology & evolution · environmental change"
+subtitle: "migration · ecology & evolution · environmental change"
 name: "Benjamin Van Doren"
 email: vandoren@cornell.edu 
 description: >- # this means to ignore newlines until "baseurl:"
@@ -105,10 +105,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
