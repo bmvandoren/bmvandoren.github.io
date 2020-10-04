@@ -3,7 +3,7 @@ title: "PhD defense"
 <!-- last_modified_at: 2020-10-09T16:20:02-05:00 -->
 categories:
   - News
-excerpt: "I passed my DPhil viva! Here's my thesis."
+excerpt: "I passed my Oxford DPhil viva! Here's my thesis."
 classes: wide
 ---
 
