@@ -31,18 +31,20 @@
       {% else %}
         <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-<!--     </h3> -->
+    </h3>
 
     <!-- dvhart: date read-time meta line -->
-    <span class="page__meta">
+    <p class="page__meta">
       {% if post.last_modified_at %}
-        &emsp;<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.last_modified_at | date: "%Y-%m-%d" }}">{{ post.last_modified_at | date: "%B %d, %Y" }}</time>&emsp;
+<!--         &emsp; -->
+        <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.last_modified_at | date: "%Y-%m-%d" }}">{{ post.last_modified_at | date: "%B %d, %Y" }}</time>&emsp;
       {% elsif post.date %}
-        &emsp;<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y " }}</time>&emsp;
+<!--         &emsp; -->
+        <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y " }}</time>&emsp;
       {% endif %}
       {% if post.read_time %}<i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{% include read-time.html %}{% endif %}
-    </span>
-    </h3>
+    </p>
+<!--     </h3> -->
     <!-- end dvhart date read-time meta line -->
 
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
