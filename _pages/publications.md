@@ -9,23 +9,8 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-29 journal articles · [668](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [16](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
-<br><small>Last updated 04 Oct 2020</small>
-<table class="publication-table">
-<caption>In Press</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> altmetric_badge </th>
-   <th style="text-align:left;"> citation </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> <a class='anchor' id='individual_variability_and_versatility_in_an_eco_evolutionary_model_of_avian_migration'></a><span class='pub-title'>Individual variability and versatility in an eco-evolutionary model of avian migration</span><br> Delmore KE*, <b>Van Doren BM</b>*, Conway GJ, Curk T, Garrido-Garduño T, Germain RR, Hasselmann T, Hiemer D, van der Jeugd HP, Justen H, Lugo Ramos JS, Maggini I, Meyer BS, Phillips RJ, Remisiewicz M, Roberts GCM, Sheldon BC, Vogl W, Liedvogel M<br><small>* Equal contributions</small> <br> <i>Proceedings of the Royal Society B: Biological Sciences</i> <br> </td>
-  </tr>
-</tbody>
-</table>
+29 journal articles · [687](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [16](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
+<br><small>Last updated 04 Nov 2020</small>
 <table class="publication-table">
 <caption>2020</caption>
  <thead>
@@ -35,6 +20,10 @@ header:
   </tr>
  </thead>
 <tbody>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1098/rspb.2020.1339' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='individual_variability_and_versatility_in_an_eco_evolutionary_model_of_avian_migration'></a><span class='pub-title'><a href='https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1339'>Individual variability and versatility in an eco-evolutionary model of avian migration</a></span><br> Delmore KE*, <b>Van Doren BM</b>*, Conway GJ, Curk T, Garrido-Garduño T, Germain RR, Hasselmann T, Hiemer D, van der Jeugd HP, Justen H, Lugo Ramos JS, Maggini I, Meyer BS, Phillips RJ, Remisiewicz M, Roberts GCM, Sheldon BC, Vogl W, Liedvogel M<br><small>* Equal contributions</small> <br> <i>Proceedings of the Royal Society B: Biological Sciences</i> 287:20201339 <br>  <span class='publication-extra'><a href='https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.1339'>pdf</a></span> </td>
+  </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1534/g3.120.401352' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='the_genomic_landscape_of_divergence_across_the_speciation_continuum_in_island_colonising_silvereyes_i_zosterops_lateralis_i'></a><span class='pub-title'><a href='https://doi.org/10.1534/g3.120.401352'>The genomic landscape of divergence across the speciation continuum in island-colonising silvereyes (<i>Zosterops lateralis</i>)</a></span><br> Sendell-Price AT, Ruegg KC, Anderson EC, Quilodrán CS, <b>Van Doren BM</b>, Underwood VL, Coulson T, Clegg SM <br> <i>G3</i> 10:3147-3163 <br>  <span class='publication-extra'><a href='https://www.g3journal.org/content/ggg/10/9/3147.full.pdf'>pdf</a></span> </td>
