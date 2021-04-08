@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Latest Research
 layout: archive
 permalink: /research/
 taxonomy: other_projects
