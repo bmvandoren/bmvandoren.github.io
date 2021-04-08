@@ -9,8 +9,23 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-29 journal articles · [687](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [16](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
-<br><small>Last updated 04 Nov 2020</small>
+30 journal articles · [802](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [17](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
+<br><small>Last updated 07 Apr 2021</small>
+<table class="publication-table">
+<caption>2021</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> altmetric_badge </th>
+   <th style="text-align:left;"> citation </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/cobi.13740' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='near_term_ecological_forecasting_for_dynamic_aeroconservation_of_migratory_birds'></a><span class='pub-title'><a href='https://doi.org/10.1111/cobi.13740'>Near-term ecological forecasting for dynamic aeroconservation of migratory birds</a></span><br> Horton KG, <b>Van Doren BM</b>, Albers HJ, Farnsworth A, Sheldon D <br> <i>Conservation Biology</i> <br> </td>
+  </tr>
+</tbody>
+</table>
 <table class="publication-table">
 <caption>2020</caption>
  <thead>
