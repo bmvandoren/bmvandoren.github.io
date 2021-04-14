@@ -9,7 +9,7 @@ feature_row1:
   - image_path: /assets/images/News/BAWW_Horton.jpg
     alt: "Black-and-white Warbler"
     title: "Forecasting migration for conservation"
-    excerpt: 'Our latest research highlights how migration forecasts can guide efforts to protect avian migrants.'
+    excerpt: 'Our research highlights how migration forecasts can guide efforts to protect avian migrants.'
     url: "/news/pub-cons-bio/"
     btn_label: "Read More"
     btn_class: "btn--primary"
