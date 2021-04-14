@@ -44,6 +44,10 @@ My sincere thanks to my supervisors, Prof. Ben Sheldon and Prof. Sonya Clegg, as
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1073/pnas.1708574114' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='high_intensity_urban_light_installation_dramatically_alters_nocturnal_bird_migration'></a><span class='pub-title'><b>Chapter 5:</b> <a href='http://www.pnas.org/cgi/doi/10.1073/pnas.17085741144'>High-intensity urban light installation dramatically alters nocturnal bird migration</a></span><br> <b>Van Doren BM</b>*, Horton KG*, Dokter AM, Klinck H, Elbin SE, Farnsworth A<br><small>* Equal contributions</small> <br> <i>Proceedings of the National Academy of Sciences</i> 201708574 <br> </td>
   </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/gcb.15597' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='human_activity_shapes_the_wintering_ecology_of_a_migratory_bird'></a><span class='pub-title'><b>Chapter 6:</b> <a href='https://onlinelibrary.wiley.com/doi/10.1111/gcb.15597'>Human activity shapes the wintering ecology of a migratory bird</a></span><br> <b>Van Doren BM</b>, Conway GJ, Phillips RJ, Evans GC, Roberts GCM, Liedvogel M, Sheldon BC <br> <i>Global Change Biology</i> <br>  <span class='publication-extra'><a href='https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.15597'>pdf</a></span> </td>
+  </tr>
 
 </tbody>
 </table>

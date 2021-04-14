@@ -29,15 +29,26 @@ feature_row3:
     url: "/news/pub-blackcap-uk/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row4:
+  - image_path: /assets/images/News/dphil.jpg
+    alt: "Doctoral work"
+    title: "Doctoral work"
+    excerpt: 'My dissertation surveyed the drivers of bird migration across scales, focusing on the contributions of the innate migratory program, birds’ responses to environmental cues and conditions, and the influence of human activity on migratory behavior.'
+    url: "/news/dphil-viva/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 <br>
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row1" type="left " %}
 
 {% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row4" type="left" %}
 
 <!-- ## Other projects
 
