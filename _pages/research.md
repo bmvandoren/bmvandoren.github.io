@@ -16,16 +16,26 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/News/2Blackcap_Credit Ben Porter_350px.jpg
     alt: "Blackcap with geolocator"
-    title: "Tracking migratory evolution in Blackcaps"
+    title: "Tracking migratory evolution"
     excerpt: 'How is bird migration evolving? We tracked 100 Eurasian Blackcaps to find out. Our study provides detailed evidence for impressively variable migratory strategies in this single species.'
     url: "/news/pub-blackcap-geo/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/News/Male blackcap_Credit Benjamin Van Doren_800px.jpg
+    alt: "Blackcap in garden"
+    title: "Human influences on migrant biology"
+    excerpt: 'Bird feeders, fruiting plants, and a warming world are changing the movements and physiology of birds that winter in Britain.'
+    url: "/news/pub-blackcap-uk/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
 <br>
 
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 

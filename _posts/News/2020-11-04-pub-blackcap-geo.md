@@ -1,5 +1,5 @@
 ---
-title: "Research: Tracking migratory evolution in Blackcaps"
+title: "Research: Tracking migratory evolution"
 <!-- last_modified_at: 2020-10-09T16:20:02-05:00 -->
 categories:
   - News
