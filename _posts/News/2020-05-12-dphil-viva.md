@@ -13,6 +13,8 @@ I successfully defended my Oxford DPhil thesis,
 [*Flexibility in avian migration across scales*](https://ora.ox.ac.uk/objects/uuid:98ba3587-caf5-443c-ac99-153eca360656).
 My sincere thanks to my supervisors, Prof. Ben Sheldon and Prof. Sonya Clegg, as well as my examiners, Prof. Tim Guilford (University of Oxford) and Prof. Jason Chapman (University of Exeter).
 
+You can read my thesis in its entirety on the [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:98ba3587-caf5-443c-ac99-153eca360656).
+
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 <table class="publication-table">
