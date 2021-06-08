@@ -9,8 +9,8 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-32 journal articles · [863](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [18](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
-<br><small>Last updated 02 Jun 2021</small>
+32 journal articles · [865](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [18](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
+<br><small>Last updated 08 Jun 2021</small>
 <table class="publication-table">
 <caption>2021</caption>
  <thead>
@@ -22,7 +22,7 @@ header:
 <tbody>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1073/pnas.2101666118' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='drivers_of_fatal_bird_collisions_in_an_urban_center'></a><span class='pub-title'><a href='https://doi.org/10.1073/pnas.21016661188'>Drivers of fatal bird collisions in an urban center</a></span><br> <b>Van Doren BM</b>, Willard DE, Hennen M, Horton KG, Stuber EF, Sheldon D, Sivakumar AH, Wang J, Farnsworth A, Winger BM <br> <i>Proceedings of the National Academy of Sciences</i> <br> </td>
+   <td style="text-align:left;"> <a class='anchor' id='drivers_of_fatal_bird_collisions_in_an_urban_center'></a><span class='pub-title'><a href='https://doi.org/10.1073/pnas.2101666118'>Drivers of fatal bird collisions in an urban center</a></span><br> <b>Van Doren BM</b>, Willard DE, Hennen M, Horton KG, Stuber EF, Sheldon D, Sivakumar AH, Wang J, Farnsworth A, Winger BM <br> <i>Proceedings of the National Academy of Sciences</i> <br> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/gcb.15597' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
