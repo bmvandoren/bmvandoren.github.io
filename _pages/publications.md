@@ -9,8 +9,8 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-31 journal articles · [812](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [17](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
-<br><small>Last updated 13 Apr 2021</small>
+32 journal articles · [863](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [18](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
+<br><small>Last updated 02 Jun 2021</small>
 <table class="publication-table">
 <caption>2021</caption>
  <thead>
@@ -21,8 +21,12 @@ header:
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1073/pnas.2101666118' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='drivers_of_fatal_bird_collisions_in_an_urban_center'></a><span class='pub-title'><a href='https://doi.org/10.1073/pnas.21016661188'>Drivers of fatal bird collisions in an urban center</a></span><br> <b>Van Doren BM</b>, Willard DE, Hennen M, Horton KG, Stuber EF, Sheldon D, Sivakumar AH, Wang J, Farnsworth A, Winger BM <br> <i>Proceedings of the National Academy of Sciences</i> <br> </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/gcb.15597' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='human_activity_shapes_the_wintering_ecology_of_a_migratory_bird'></a><span class='pub-title'><a href='https://onlinelibrary.wiley.com/doi/10.1111/gcb.15597'>Human activity shapes the wintering ecology of a migratory bird</a></span><br> <b>Van Doren BM</b>, Conway GJ, Phillips RJ, Evans GC, Roberts GCM, Liedvogel M, Sheldon BC <br> <i>Global Change Biology</i> <br>  <span class='publication-extra'><a href='https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.15597'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='human_activity_shapes_the_wintering_ecology_of_a_migratory_bird'></a><span class='pub-title'><a href='https://onlinelibrary.wiley.com/doi/10.1111/gcb.15597'>Human activity shapes the wintering ecology of a migratory bird</a></span><br> <b>Van Doren BM</b>, Conway GJ, Phillips RJ, Evans GC, Roberts GCM, Liedvogel M, Sheldon BC <br> <i>Global Change Biology</i> 27:2715-2727 <br>  <span class='publication-extra'><a href='https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.15597'>pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/cobi.13740' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
@@ -130,7 +134,7 @@ header:
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1073/pnas.1708574114' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='high_intensity_urban_light_installation_dramatically_alters_nocturnal_bird_migration'></a><span class='pub-title'><a href='http://www.pnas.org/cgi/doi/10.1073/pnas.17085741144'>High-intensity urban light installation dramatically alters nocturnal bird migration</a></span><br> <b>Van Doren BM</b>*, Horton KG*, Dokter AM, Klinck H, Elbin SE, Farnsworth A<br><small>* Equal contributions</small> <br> <i>Proceedings of the National Academy of Sciences</i> 201708574 <br> </td>
+   <td style="text-align:left;"> <a class='anchor' id='high_intensity_urban_light_installation_dramatically_alters_nocturnal_bird_migration'></a><span class='pub-title'><a href='http://www.pnas.org/cgi/doi/10.1073/pnas.1708574114'>High-intensity urban light installation dramatically alters nocturnal bird migration</a></span><br> <b>Van Doren BM</b>*, Horton KG*, Dokter AM, Klinck H, Elbin SE, Farnsworth A<br><small>* Equal contributions</small> <br> <i>Proceedings of the National Academy of Sciences</i> 201708574 <br> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/mec.14083' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
