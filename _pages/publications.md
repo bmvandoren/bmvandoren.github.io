@@ -10,7 +10,7 @@ header:
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 32 journal articles · [865](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [18](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
-<br><small>Last updated 08 Jun 2021</small>
+<br><small>Last updated 09 Jun 2021</small>
 <table class="publication-table">
 <caption>2021</caption>
  <thead>
@@ -22,15 +22,15 @@ header:
 <tbody>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1073/pnas.2101666118' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='drivers_of_fatal_bird_collisions_in_an_urban_center'></a><span class='pub-title'><a href='https://doi.org/10.1073/pnas.2101666118'>Drivers of fatal bird collisions in an urban center</a></span><br> <b>Van Doren BM</b>, Willard DE, Hennen M, Horton KG, Stuber EF, Sheldon D, Sivakumar AH, Wang J, Farnsworth A, Winger BM <br> <i>Proceedings of the National Academy of Sciences</i> <br> </td>
+   <td style="text-align:left;"> <a class='anchor' id='drivers_of_fatal_bird_collisions_in_an_urban_center'></a><span class='pub-title'><a href='https://doi.org/10.1073/pnas.2101666118'>Drivers of fatal bird collisions in an urban center</a></span><br> <b>Van Doren BM</b>, Willard DE, Hennen M, Horton KG, Stuber EF, Sheldon D, Sivakumar AH, Wang J, Farnsworth A, Winger BM <br> <i>Proceedings of the National Academy of Sciences</i> <br>  <span class='publication-extra'><a href='/assets/pdfs/Van Doren et al_2021_PNAS_w_supp.pdf'>download pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/gcb.15597' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='human_activity_shapes_the_wintering_ecology_of_a_migratory_bird'></a><span class='pub-title'><a href='https://onlinelibrary.wiley.com/doi/10.1111/gcb.15597'>Human activity shapes the wintering ecology of a migratory bird</a></span><br> <b>Van Doren BM</b>, Conway GJ, Phillips RJ, Evans GC, Roberts GCM, Liedvogel M, Sheldon BC <br> <i>Global Change Biology</i> 27:2715-2727 <br>  <span class='publication-extra'><a href='https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.15597'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='human_activity_shapes_the_wintering_ecology_of_a_migratory_bird'></a><span class='pub-title'><a href='https://onlinelibrary.wiley.com/doi/10.1111/gcb.15597'>Human activity shapes the wintering ecology of a migratory bird</a></span><br> <b>Van Doren BM</b>, Conway GJ, Phillips RJ, Evans GC, Roberts GCM, Liedvogel M, Sheldon BC <br> <i>Global Change Biology</i> 27:2715-2727 <br>  <span class='publication-extra'><a href='https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.15597'>download pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/cobi.13740' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='near_term_ecological_forecasting_for_dynamic_aeroconservation_of_migratory_birds'></a><span class='pub-title'><a href='https://doi.org/10.1111/cobi.13740'>Near-term ecological forecasting for dynamic aeroconservation of migratory birds</a></span><br> Horton KG, <b>Van Doren BM</b>, Albers HJ, Farnsworth A, Sheldon D <br> <i>Conservation Biology</i> <br> </td>
+   <td style="text-align:left;"> <a class='anchor' id='near_term_ecological_forecasting_for_dynamic_aeroconservation_of_migratory_birds'></a><span class='pub-title'><a href='https://doi.org/10.1111/cobi.13740'>Near-term ecological forecasting for dynamic aeroconservation of migratory birds</a></span><br> Horton KG, <b>Van Doren BM</b>, Albers HJ, Farnsworth A, Sheldon D <br> <i>Conservation Biology</i> <br>  <span class='publication-extra'><a href='https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.13740'>download pdf</a></span> </td>
   </tr>
 </tbody>
 </table>
@@ -45,11 +45,11 @@ header:
 <tbody>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1098/rspb.2020.1339' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='individual_variability_and_versatility_in_an_eco_evolutionary_model_of_avian_migration'></a><span class='pub-title'><a href='https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1339'>Individual variability and versatility in an eco-evolutionary model of avian migration</a></span><br> Delmore KE*, <b>Van Doren BM</b>*, Conway GJ, Curk T, Garrido-Garduño T, Germain RR, Hasselmann T, Hiemer D, van der Jeugd HP, Justen H, Lugo Ramos JS, Maggini I, Meyer BS, Phillips RJ, Remisiewicz M, Roberts GCM, Sheldon BC, Vogl W, Liedvogel M<br><small>* Equal contributions</small> <br> <i>Proceedings of the Royal Society B: Biological Sciences</i> 287:20201339 <br>  <span class='publication-extra'><a href='https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.1339'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='individual_variability_and_versatility_in_an_eco_evolutionary_model_of_avian_migration'></a><span class='pub-title'><a href='https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1339'>Individual variability and versatility in an eco-evolutionary model of avian migration</a></span><br> Delmore KE*, <b>Van Doren BM</b>*, Conway GJ, Curk T, Garrido-Garduño T, Germain RR, Hasselmann T, Hiemer D, van der Jeugd HP, Justen H, Lugo Ramos JS, Maggini I, Meyer BS, Phillips RJ, Remisiewicz M, Roberts GCM, Sheldon BC, Vogl W, Liedvogel M<br><small>* Equal contributions</small> <br> <i>Proceedings of the Royal Society B: Biological Sciences</i> 287:20201339 <br>  <span class='publication-extra'><a href='https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.1339'>download pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1534/g3.120.401352' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='the_genomic_landscape_of_divergence_across_the_speciation_continuum_in_island_colonising_silvereyes_i_zosterops_lateralis_i'></a><span class='pub-title'><a href='https://doi.org/10.1534/g3.120.401352'>The genomic landscape of divergence across the speciation continuum in island-colonising silvereyes (<i>Zosterops lateralis</i>)</a></span><br> Sendell-Price AT, Ruegg KC, Anderson EC, Quilodrán CS, <b>Van Doren BM</b>, Underwood VL, Coulson T, Clegg SM <br> <i>G3</i> 10:3147-3163 <br>  <span class='publication-extra'><a href='https://www.g3journal.org/content/ggg/10/9/3147.full.pdf'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='the_genomic_landscape_of_divergence_across_the_speciation_continuum_in_island_colonising_silvereyes_i_zosterops_lateralis_i'></a><span class='pub-title'><a href='https://doi.org/10.1534/g3.120.401352'>The genomic landscape of divergence across the speciation continuum in island-colonising silvereyes (<i>Zosterops lateralis</i>)</a></span><br> Sendell-Price AT, Ruegg KC, Anderson EC, Quilodrán CS, <b>Van Doren BM</b>, Underwood VL, Coulson T, Clegg SM <br> <i>G3</i> 10:3147-3163 <br>  <span class='publication-extra'><a href='https://www.g3journal.org/content/ggg/10/9/3147.full.pdf'>download pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1093/jue/juz026' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
