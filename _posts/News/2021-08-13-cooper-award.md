@@ -9,7 +9,7 @@ header:
    teaser: "/assets/images/News/aos_logo2.png"
 ---
 
-I am incredibly honored to receive the [James G. Cooper Early Professional Award](https://americanornithology.org/awards-grants/early-professional/james-g-cooper-early-professional-award/) 
+I am grateful to receive the [James G. Cooper Early Professional Award](https://americanornithology.org/awards-grants/early-professional/james-g-cooper-early-professional-award/) 
 from the [American Ornithological Society](https://americanornithology.org) (AOS).
 It was wonderful to present my research as a plenary talk at the AOS & SCO-SOC joint meeting on August 10, 2021.
 I hope to post a recording of my talk at some point in the near future.
