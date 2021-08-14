@@ -21,6 +21,7 @@ feature_row2:
     url: "/news/pub-blackcap-geo/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row3:
   - image_path: /assets/images/News/Male blackcap_Credit Benjamin Van Doren_800px.jpg
     alt: "Blackcap in garden"
@@ -38,9 +39,20 @@ feature_row4:
     url: "/news/dphil-viva/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
+feature_row5:
+  - image_path: /assets/images/News/collisions_Bean_800px.png
+    alt: "Selection of birds found at McCormick Place, from the scientific collections of the Field Museum. Image courtesy of Karen Bean, Field Museum."
+    title: "Light pollution, migration and weather drive bird collisions"
+    excerpt: 'Our study found that decreasing lit windows on buildings could reduce bird collisions by more than 50%.'
+    url: "/news/pub-chicago-collisions/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 <br>
+
+{% include feature_row id="feature_row5" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
