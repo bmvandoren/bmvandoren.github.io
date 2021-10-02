@@ -28,6 +28,9 @@ url: https://bmvandoren.github.io
 repository: "bmvandoren/bmvandoren.github.io"
 logo: "/assets/images/nowa_88x88.jpg"
 
+# Google Analytics
+google_analytics: UA-84936519-1
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
