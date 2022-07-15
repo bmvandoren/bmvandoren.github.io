@@ -9,8 +9,28 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-32 journal articles · [913](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [19](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
-<br><small>Last updated 13 Aug 2021</small>
+34 journal articles · [1161](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [19](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
+<br><small>Last updated 15 Jul 2022</small>
+<table class="publication-table">
+<caption>2022</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> altmetric_badge </th>
+   <th style="text-align:left;"> citation </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2022.04.12.488057' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='learning_seasonal_bird_movements_from_citizen_science_data'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2022.04.12.488057v1'>Learning seasonal bird movements from citizen science data</a></span><br> Fuentes M, <b>Van Doren BM</b>, Fink D, Sheldon D <br> <i>bioRxiv</i> bioRxiv.2022.04.12.488057 <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2022.04.12.488057v1.full.pdf'>download pdf</a></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/ddi.13499' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='the_role_of_artificial_light_at_night_and_road_density_in_predicting_the_seasonal_occurrence_of_nocturnally_migrating_birds'></a><span class='pub-title'><a href='https://onlinelibrary.wiley.com/doi/10.1111/ddi.13499'>The role of artificial light at night and road density in predicting the seasonal occurrence of nocturnally migrating birds</a></span><br> La Sorte FA, Johnston A, Rodewald AD, Fink D, Farnsworth A, <b>Van Doren BM</b>, Auer T,
+Strimas-Mackey M <br> <i>Diversity and Distributions</i> 28:992–1009 <br>  <span class='publication-extra'><a href='https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.13499'>download pdf</a></span> </td>
+  </tr>
+</tbody>
+</table>
 <table class="publication-table">
 <caption>2021</caption>
  <thead>
@@ -20,6 +40,10 @@ header:
   </tr>
  </thead>
 <tbody>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/1365-2664.13971' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='bird_strikes_at_commercial_airports_explained_by_citizen_science_and_weather_radar_data'></a><span class='pub-title'><a href='https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13971'>Bird strikes at commercial airports explained by citizen science and weather radar data.</a></span><br> Nilsson C, La Sorte F, Dokter A, Horton K, <b>Van Doren BM</b>, Kolodzinski J, Shamoun-Baranes J, Farnsworth A <br> <i>Journal of Applied Ecology</i> 58:2029–2039 <br>  <span class='publication-extra'><a href='https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2664.13971'>download pdf</a></span> </td>
+  </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1073/pnas.2101666118' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='drivers_of_fatal_bird_collisions_in_an_urban_center'></a><span class='pub-title'><a href='https://doi.org/10.1073/pnas.2101666118'>Drivers of fatal bird collisions in an urban center</a></span><br> <b>Van Doren BM</b>, Willard DE, Hennen M, Horton KG, Stuber EF, Sheldon D, Sivakumar AH, Wang J, Farnsworth A, Winger BM <br> <i>Proceedings of the National Academy of Sciences</i> <br>  <span class='publication-extra'><a href='/assets/pdfs/Van Doren et al_2021_PNAS_w_supp.pdf'>download pdf</a></span> </td>
