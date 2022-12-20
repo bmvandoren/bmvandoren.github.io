@@ -9,8 +9,8 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-34 journal articles · [1161](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [19](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
-<br><small>Last updated 15 Jul 2022</small>
+37 journal articles · [1344](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [21](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
+<br><small>Last updated 20 Dec 2022</small>
 <table class="publication-table">
 <caption>2022</caption>
  <thead>
@@ -21,8 +21,12 @@ header:
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/1365-2664.14342' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='automated_acoustic_monitoring_captures_timing_and_intensity_of_bird_migration'></a><span class='pub-title'><a href='https://doi.org/10.1111/1365-2664.14342'>Automated acoustic monitoring captures timing and intensity of bird migration</a></span><br> <b>Van Doren BM</b>, Lostanlen V, Cramer A, Salamon J, Dokter A, Kelling S, Bello JP, Farnsworth A <br> <i>Journal of Applied Ecology</i> <br> </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2022.04.12.488057' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='learning_seasonal_bird_movements_from_citizen_science_data'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2022.04.12.488057v1'>Learning seasonal bird movements from citizen science data</a></span><br> Fuentes M, <b>Van Doren BM</b>, Fink D, Sheldon D <br> <i>bioRxiv</i> bioRxiv.2022.04.12.488057 <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2022.04.12.488057v1.full.pdf'>download pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='learning_seasonal_bird_movements_from_citizen_science_data'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2022.04.12.488057v1'>Learning seasonal bird movements from citizen science data</a></span><br> Fuentes M, <b>Van Doren BM</b>, Fink D, Sheldon D <br> <i>Methods in Ecology and Evolution</i> bioRxiv.2022.04.12.488057 <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2022.04.12.488057v1.full.pdf'>download pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/ddi.13499' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
@@ -40,6 +44,10 @@ Strimas-Mackey M <br> <i>Diversity and Distributions</i> 28:992–1009 <br>  <sp
   </tr>
  </thead>
 <tbody>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1038/s41598-021-97986-x' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='avoidance_of_different_durations_colours_and_intensities_of_artificial_light_by_adult_seabirds'></a><span class='pub-title'><a href='https://doi.org/10.1038/s41598-021-97986-x'>Avoidance of different durations, colours and intensities of artificial light by adult seabirds</a></span><br> Syposz M, Padget O, Willis J, <b>Van Doren BM</b>, Gillies N, Fayet AL, Wood MJ, Alejo A, Guilford T <br> <i>Scientific Reports</i> 11:18941 <br> </td>
+  </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/1365-2664.13971' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='bird_strikes_at_commercial_airports_explained_by_citizen_science_and_weather_radar_data'></a><span class='pub-title'><a href='https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13971'>Bird strikes at commercial airports explained by citizen science and weather radar data.</a></span><br> Nilsson C, La Sorte F, Dokter A, Horton K, <b>Van Doren BM</b>, Kolodzinski J, Shamoun-Baranes J, Farnsworth A <br> <i>Journal of Applied Ecology</i> 58:2029–2039 <br>  <span class='publication-extra'><a href='https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2664.13971'>download pdf</a></span> </td>
