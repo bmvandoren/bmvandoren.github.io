@@ -27,6 +27,7 @@ publications_table <- publications %>%
   ),
   venue = ifelse(is.na(venue),"",str_c("<i>",venue,"</i>")),
   venue = ifelse(is.na(volume_page),venue,str_c(venue," ",volume_page)),
+  venue = str_c("<span class='venue'>",venue,"</span>"),
   pdf = ifelse(is.na(pdf), "", str_c("<span class='publication-extra'><a href='", pdf, "'>", 'download pdf', "</a></span>")),
   materials = ifelse(is.na(materials),  "", str_c(" · <span class='publication-extra'><a href='", materials, "'>", 'materials', "</a></span>")),
   ebook = ifelse(is.na(ebook), "", str_c(" · <span class='publication-extra'><a href='", ebook, "'>", 'ebook', "</a></span>")),
@@ -34,6 +35,7 @@ publications_table <- publications %>%
   full_talk = ifelse(is.na(full_talk), "", str_c(" · <span class='publication-extra'><a href='", full_talk, "'>", 'video of full talk', "</a></span>")),
   bibtex = ifelse(is.na(bibtex),  "", str_c(" · <span class='publication-extra'><a href='", bibtex, "'>", 'bibtex', "</a></span>")),
   authors_full = ifelse(grepl("\\*",authors_full),str_c(authors_full,"<br><small>* Equal contributions</small>"),authors_full),
+  authors_full = str_c("<span class='author-list'>",authors_full,"</span>"),
   featured = ifelse(is.na(featured),"",str_c("<span class='publication-featured'>",featured,"</span>")),
   press = sapply(press,function(str) {
                    ifelse(!is.na(str),

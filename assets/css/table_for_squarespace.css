@@ -1,0 +1,59 @@
+//  Publications page
+.publication-table .pub-title {
+  /* font-weight: bold; */
+  font-size: 1.15em;
+}
+
+.publication-table td{
+  border: none;
+  vertical-align: top;
+}
+
+.publication-table td div.altmetric-embed {
+	padding-right: 0.5em;
+}
+
+.publication-table 
+			span.author-list,
+			span.venue,
+			span.publication-extra, 
+			span.publication-featured {
+  padding-left: 2em;
+  display: inline-block;
+}
+
+.publication-table .pub-title {
+  padding-left: 0em;
+  color: #02798f;
+}
+
+/*.publication-table span {
+  padding-left: 1em;
+}
+
+.publication-table span.pub-title {
+  padding-left: 0;
+}*/
+
+.publication-table thead {
+  display: none;
+}
+
+.publication-table caption {
+  text-align: left;
+  caption-side: top;
+  font-size: 2em;
+}
+
+.publication-featured {
+  color: #028f6a;
+}
+
+.publication-table a:hover {
+	text-decoration: underline;
+   /*color: #02798f;*/
+}
+
+.publication-table .publication-featured a {
+  color: #028f6a;
+}
