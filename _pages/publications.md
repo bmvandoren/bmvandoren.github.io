@@ -9,8 +9,8 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-39 journal articles · 2 preprints · [1551](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [22](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
-<br><small>Last updated 08 Jul 2023</small>
+43 journal articles · [1752](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>) citations · h-index: [24](https://scholar.google.com/citations?user=r9Vj5hIAAAAJ&hl=en>)
+<br><small>Last updated 20 Dec 2023</small>
 <table class="publication-table">
 <caption>2023</caption>
  <thead>
@@ -21,12 +21,24 @@ header:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2023.05.22.541336' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='nighthawk_acoustic_monitoring_of_nocturnal_bird_migration_in_the_americas'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2023.05.22.541336v1'>Nighthawk: acoustic monitoring of nocturnal bird migration in the Americas</a></span><br> <span class='author-list'><b>Van Doren BM</b>, Farnsworth A, Stone K, Osterhaus DM, Drucker J, Van Horn G</span> <br> <span class='venue'><i>bioRxiv</i></span> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2023.05.22.541336v1.full.pdf'>download pdf</a></span> </td>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1093/evlett/qrad040' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='structural_genomic_variation_and_migratory_behavior_in_a_wild_songbird'></a><span class='pub-title'><a href='https://doi.org/10.1093/evlett/qrad040'>Structural genomic variation and migratory behavior in a wild songbird</a></span><br> <span class='author-list'>Delmore KE, <b>Van Doren BM</b>, Ullrich K, Curk T, van der Jeugd HP,  Liedvogel M</span> <br> <span class='venue'><i>Evolution Letters</i> 7:401-412</span> <br>  <span class='publication-extra'><a href='https://academic.oup.com/evlett/article-pdf/7/6/401/53974731/qrad040.pdf'>download pdf</a></span> </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2023.04.24.538030' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='structural_genomic_variation_and_migratory_behavior_in_wild_songbirds'></a><span class='pub-title'><a href='https://doi.org/10.1101/2023.04.24.538030'>Structural genomic variation and migratory behavior in wild songbirds</a></span><br> <span class='author-list'>Delmore KE, <b>Van Doren BM</b>, Ullrich K, Curk T, van der Jeugd HP,  Liedvogel M</span> <br> <span class='venue'><i>bioRxiv</i></span> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2023.04.24.538030v1.full.pdf'>download pdf</a></span> </td>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1093/ornithology/ukad056' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='magnolia_warbler_flight_calls_demonstrate_individuality_and_variation_by_season_and_recording_location'></a><span class='pub-title'><a href='https://doi.org/10.1093/ornithology/ukad056'>Magnolia Warbler flight calls demonstrate individuality and variation by season and recording location</a></span><br> <span class='author-list'>Ress EM, Farnsworth A, Morris SR, Lanzone M, <b>Van Doren BM</b></span> <br> <span class='venue'><i>Ornithology</i> ukad056</span> <br>  <span class='publication-extra'><a href='/s/Ress-et-al_2023_Magnolia-Warbler-flight-calls-demonstrate-individuality-and-variation-by-season.pdf'>download pdf</a></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1073/pnas.2306317120' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='space_weather_disrupts_nocturnal_bird_migration'></a><span class='pub-title'><a href='https://doi.org/10.1073/pnas.2306317120'>Space weather disrupts nocturnal bird migration</a></span><br> <span class='author-list'>Gulson-Castillo ER, <b>Van Doren BM</b>, Bui MX, Horton KG, Li J, Moldwin MB, Shedden K, Welling DT, Winger BM</span> <br> <span class='venue'><i>Proceedings of the National Academy of Sciences</i> 120:e2306317120</span> <br>  <span class='publication-extra'><a href='/s/Gulson-Castillo-et-al_2023_Space-weather-disrupts-nocturnal-bird-migration.pdf'>download pdf</a></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1093/evolut/qpad112' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='lower_survival_of_hybrid_grosbeaks_but_not_towhees_suggests_a_molt_divide_disfavors_hybrids'></a><span class='pub-title'><a href='https://doi.org/10.1093/evolut/qpad112'>Lower survival of hybrid grosbeaks, but not towhees, suggests a molt divide disfavors hybrids</a></span><br> <span class='author-list'>Rohwer VG, Hagler SJ, <b>Van Doren BM</b>, Fuentes M, Billerman SM</span> <br> <span class='venue'><i>Evolution</i> 77:1956-1966</span> <br>  <span class='publication-extra'><a href='/s/Rohwer-et-al_2023_Lower-survival-of-hybrid-grosbeaks-but-not-towhees-suggests-a-molt-divide.pdf'>download pdf</a></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2023.05.22.541336' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='nighthawk_acoustic_monitoring_of_nocturnal_bird_migration_in_the_americas'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2023.05.22.541336v1'>Nighthawk: acoustic monitoring of nocturnal bird migration in the Americas</a></span><br> <span class='author-list'><b>Van Doren BM</b>, Farnsworth A, Stone K, Osterhaus DM, Drucker J, Van Horn G</span> <br> <span class='venue'><i>bioRxiv</i></span> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2023.05.22.541336v1.full.pdf'>download pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1002/fee.2614' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
@@ -81,7 +93,7 @@ Strimas-Mackey M</span> <br> <span class='venue'><i>Diversity and Distributions<
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1073/pnas.2101666118' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='drivers_of_fatal_bird_collisions_in_an_urban_center'></a><span class='pub-title'><a href='https://doi.org/10.1073/pnas.2101666118'>Drivers of fatal bird collisions in an urban center</a></span><br> <span class='author-list'><b>Van Doren BM</b>, Willard DE, Hennen M, Horton KG, Stuber EF, Sheldon D, Sivakumar AH, Wang J, Farnsworth A, Winger BM</span> <br> <span class='venue'><i>Proceedings of the National Academy of Sciences</i> 118:e2101666118</span> <br>  <span class='publication-extra'><a href='/assets/pdfs/Van Doren et al_2021_PNAS_w_supp.pdf'>download pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='drivers_of_fatal_bird_collisions_in_an_urban_center'></a><span class='pub-title'><a href='https://doi.org/10.1073/pnas.2101666118'>Drivers of fatal bird collisions in an urban center</a></span><br> <span class='author-list'><b>Van Doren BM</b>, Willard DE, Hennen M, Horton KG, Stuber EF, Sheldon D, Sivakumar AH, Wang J, Farnsworth A, Winger BM</span> <br> <span class='venue'><i>Proceedings of the National Academy of Sciences</i> 118:e2101666118</span> <br>  <span class='publication-extra'><a href='/s/Van-Doren-et-al_2021_PNAS_w_supp.pdf'>download pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1111/gcb.15597' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
